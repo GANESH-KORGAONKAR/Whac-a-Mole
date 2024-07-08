@@ -49,4 +49,4 @@ Whac-A-Mole is a fun and interactive game where the objective is to click on the
 3. Avoid clicking on the plants to keep playing.
 4. If the game ends, press the restart button to play again and try to beat your high score.
 
-##Enjoy playing the Whac-A-Mole Game!
+## Enjoy playing the Whac-A-Mole Game!
