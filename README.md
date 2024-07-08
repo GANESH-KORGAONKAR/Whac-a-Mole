@@ -6,7 +6,9 @@ Welcome to the Whac-A-Mole game! This is a simple yet exciting game where you ha
 - [Game Description](#game-description)
 - [Features](#features)
 - [Game Instructions](#game-instructions)
-- [Code Explanation](#code-explanation)
+- [Requirements](#requirements)
+- [Setup and Installation](#setup-and-installation)
+- [How to Play](#how-to-play)
 
 ## Game Description
 
@@ -29,14 +31,22 @@ Whac-A-Mole is a fun and interactive game where the objective is to click on the
 5. The game displays your score and the highest score achieved.
 6. After the game ends, you have the option to restart the game.
 
-## Code Explanation
+## Requirements
 
-### `App.java`
-This file contains the main method which creates an instance of the `WhacAMole` class to start the game.
+- Java Development Kit (JDK)
+- An IDE or text editor for writing and running Java code
 
-```java
-public class App {
-    public static void main(String[] args) throws Exception {
-        WhacAMole whacAMole = new WhacAMole();
-    }
-}
+## Setup and Installation
+
+1. Ensure you have Java Development Kit (JDK) installed on your system.
+2. Download or clone the game code to your local machine.
+3. Open the code in your preferred IDE or text editor.
+
+## How to Play
+
+1. Run the `App.java` file to start the game.
+2. Click on the moles that appear on the grid to score points.
+3. Avoid clicking on the plants to keep playing.
+4. If the game ends, press the restart button to play again and try to beat your high score.
+
+##Enjoy playing the Whac-A-Mole Game!
