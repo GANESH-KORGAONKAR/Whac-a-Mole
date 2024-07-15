@@ -9,6 +9,7 @@ Welcome to the Whac-A-Mole game! This is a simple yet exciting game where you ha
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
 - [How to Play](#how-to-play)
+- [Credits](#credits)
 
 ## Game Description
 
@@ -48,5 +49,9 @@ Whac-A-Mole is a fun and interactive game where the objective is to click on the
 2. Click on the moles that appear on the grid to score points.
 3. Avoid clicking on the plants to keep playing.
 4. If the game ends, press the restart button to play again and try to beat your high score.
+
+## Credits
+
+I watched a tutorial video on YouTube for this project on how to code and make this game. I coded the game by watching the tutorial and made some additional features suggested by the video creator. The name of the YouTube channel is Kenny Yip Coding.
 
 ## Enjoy playing the Whac-A-Mole Game!
