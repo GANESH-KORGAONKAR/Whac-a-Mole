@@ -52,6 +52,6 @@ Whac-A-Mole is a fun and interactive game where the objective is to click on the
 
 ## Credits
 
-I watched a tutorial video on YouTube for this project on how to code and make this game. I coded the game by watching the tutorial and made some additional features suggested by the video creator. The name of the YouTube channel is Kenny Yip Coding.
+I watched a tutorial video on YouTube for this project on how to code and make this game. I coded the game by watching the tutorial and made some additional features suggested by the video creator. The name of the YouTube channel is Kenny Yip Coding. Additionally, I received valuable assistance in adding comments and refining the code from ChatGPT.
 
 ## Enjoy playing the Whac-A-Mole Game!
