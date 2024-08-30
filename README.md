@@ -9,7 +9,8 @@ Welcome to the Whac-A-Mole game! This is a simple yet exciting game where you ha
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
 - [How to Play](#how-to-play)
-- [Credits](#credits)
+- [Sample Output](#sample-output) 
+- [Acknowledgements](#acknowledgements)
 
 ## Game Description
 
@@ -50,8 +51,18 @@ Whac-A-Mole is a fun and interactive game where the objective is to click on the
 3. Avoid clicking on the plants to keep playing.
 4. If the game ends, press the restart button to play again and try to beat your high score.
 
-## Credits
+## Sample Output
+### Output Screenshot
 
-I watched a tutorial video on YouTube for this project on how to code and make this game. I coded the game by watching the tutorial and made some additional features suggested by the video creator. The name of the YouTube channel is Kenny Yip Coding. Additionally, I received valuable assistance in adding comments and refining the code from ChatGPT.
+### 1]
+<img src="https://github.com/user-attachments/assets/d6bd74c1-74ea-4f1b-9f64-4ac297cb6abe" alt="Whac-A-Mole Game OutPut 1" width="700" height="400" >
+
+### 2]
+<img src="https://github.com/user-attachments/assets/3e6ad37f-5fe3-4406-923c-1b61122ab4cb" alt="Whac-A-Mole Game Output 2" width="400" height="400" >
+
+## Acknowledgements
+
+- I watched a tutorial video on YouTube by Kenny Yip Coding, which guided me through the process of coding and making this game. I followed the tutorial and added some additional features suggested by the video creator.
+- I received valuable assistance in adding comments and refining the code from ChatGPT.
 
 ## Enjoy playing the Whac-A-Mole Game!
